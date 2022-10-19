@@ -1,3 +1,10 @@
+.aboutMe {
+    background-color: lightblue;
+    border: 2px solid black;
+    padding: 2rem;
+    width: 19rem;
+}
+
 .link {
     align-items: center;
     display: flex;
