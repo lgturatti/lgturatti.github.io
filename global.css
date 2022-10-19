@@ -1,7 +1,9 @@
-.aboutMe {
-    background-color: lightblue;
+.aboutme {
+    background: lightblue;
     border: 2px solid black;
     padding: 2rem;
+    text-align: justify;
+    text-justify: inter-word;
     width: 19rem;
 }
 
